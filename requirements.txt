@@ -41,7 +41,7 @@ boltons @ file:///C:/ci_311/boltons_1677729932371/work
 botocore @ file:///C:/b/abs_01gwdn34ju/croot/botocore_1682528022942/work
 Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
 brotlipy==0.7.0
-certifi @ file:///C:/b/abs_35d7n66oz9/croot/certifi_1707229248467/work/certifi
+# certifi @ file:///C:/b/abs_35d7n66oz9/croot/certifi_1707229248467/work/certifi
 cffi @ file:///C:/ci_311/cffi_1676423759166/work
 chardet @ file:///C:/ci_311/chardet_1676436134885/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
